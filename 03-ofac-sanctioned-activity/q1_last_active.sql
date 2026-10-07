@@ -1,6 +1,6 @@
 /*before you run this query,
  please make sure you have created the table dataset_sdn_eth_addresses in your own schema. 
- You can refer to the repository sdn_data to create the table:
+ You can refer to the repository "ofac-sdn-crypto-addresses" to create the table:
  */
 WITH sdn AS (
     SELECT
